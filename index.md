@@ -16,8 +16,8 @@ ORCID ID: [orcid.org/0000-0003-1442-0906](https://orcid.org/0000-0003-1442-0906)
 
 ### 2019
 
-Grandey, B. S., and C. Wang (2019), **Background Conditions Influence the Estimated Cloud Radiative Effects of Anthropogenic Aerosol Emissions from Different Source Regions**, *Journal of Geophysical Research: Atmospheres*, (doi:10.1029/2018JD029644)[https://doi.org/10.1029/2018JD029644]
-(JGR (article))[https://doi.org/10.1029/2018JD029644]   (GitHub (analysis))[https://github.com/grandey/draft2017a-region-rfp]   (Figshare (data))[https://doi.org/10.6084/m9.figshare.6972827]
+Grandey, B. S., and C. Wang (2019), **Background Conditions Influence the Estimated Cloud Radiative Effects of Anthropogenic Aerosol Emissions from Different Source Regions**, _Journal of Geophysical Research: Atmospheres_, [doi:10.1029/2018JD029644](https://doi.org/10.1029/2018JD029644)<br/>
+[JGR (article)](https://doi.org/10.1029/2018JD029644)&nbsp; &nbsp; &nbsp; [GitHub (analysis)](https://github.com/grandey/draft2017a-region-rfp)&nbsp; &nbsp; &nbsp; [Figshare (data)](https://doi.org/10.6084/m9.figshare.6972827)
 
 ## 2018
 
