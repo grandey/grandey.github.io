@@ -1,3 +1,8 @@
+1. [About](#about)
+1. [External links](#external-links)
+1. [Publications](#publications)
+1. [Personal](#personal)
+
 ## About
 My science research interests include global climate modeling and climate processes, particularly the climate impacts of aerosols — particles suspended in the atmosphere. Aerosols scatter and absorb sunlight; and they provide the cloud condensation nuclei on which cloud droplets form. Aerosols and clouds are responsible for some of the largest uncertainties in projections of future climate.
 
