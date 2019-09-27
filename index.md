@@ -1,7 +1,7 @@
 ## About
 My science research interests include global climate modeling and climate processes, particularly the climate impacts of aerosols — particles suspended in the atmosphere. Aerosols scatter and absorb sunlight; and they provide the cloud condensation nuclei on which cloud droplets form. Aerosols and clouds are responsible for some of the largest uncertainties in projections of future climate.
 
-I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the University of Oxford. From 2012 to 2018, I worked at the Center for Environmental Sensing and Modeling (CENSAM), part of the Singapore-MIT Alliance for Research and Technology (SMART). As of April 2019, I am still a Research Affiliate with SMART-CENSAM, although I have been transitioning to a career break in order to spend more time pursuing other interests.
+I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the _University of Oxford_. From 2012 to 2018, I worked at the _Center for Environmental Sensing and Modeling (CENSAM)_, part of the _Singapore-MIT Alliance for Research and Technology (SMART)_.
 
 ![Photo](dsc08007_small.jpg)
 
@@ -11,6 +11,8 @@ GitHub: [github.com/grandey](https://github.com/grandey)
 ResearcherID/Publons: [www.researcherid.com/rid/M-1235-2015](https://www.researcherid.com/rid/M-1235-2015)
 
 ORCID ID: [orcid.org/0000-0003-1442-0906](https://orcid.org/0000-0003-1442-0906)
+
+WordPress "News" posts (old): [grandey.wordpress.com/news/](https://grandey.wordpress.com/news/)
 
 ## Publications
 
@@ -100,3 +102,14 @@ Quaas, J., Y. Ming, S. Menon, T. Takemura, M. Wang, J. E. Penner, A. Gettelman, 
 
 Grandey, B. S. (2011), **Investigating aerosol–cloud interactions**, D.Phil. Thesis, _University of Oxford_<br/>
 [ORA (thesis)](https://ora.ox.ac.uk/objects/ora:6053)
+
+## Personal
+Clothed in rags, filth, dirt and mud,<br/>
+A fool in whom there is no good,<br/>
+Save that which lavish grace bestows,<br/>
+Behold, I stand in royal robes.
+
+He took my sin, he took my shame.<br/>
+He washed my fully clean, no stain!<br/>
+Restored my honour, now I live,<br/>
+My life, my all, to Christ I give.
