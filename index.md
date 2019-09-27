@@ -3,7 +3,7 @@ My science research interests include global climate modeling and climate proces
 
 I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the University of Oxford. From 2012 to 2018, I worked at the Center for Environmental Sensing and Modeling (CENSAM), part of the Singapore-MIT Alliance for Research and Technology (SMART). As of April 2019, I am still a Research Affiliate with SMART-CENSAM, although I have been transitioning to a career break in order to spend more time pursuing other interests.
 
-![Photo](DSC08007_small.jpg)
+![Photo](dsc08007_small.jpg)
 
 ## External links
 GitHub: [github.com/grandey](https://github.com/grandey)
