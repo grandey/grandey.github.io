@@ -17,31 +17,47 @@ ORCID ID: [orcid.org/0000-0003-1442-0906](https://orcid.org/0000-0003-1442-0906)
 ### 2019
 
 Grandey, B. S., and C. Wang (2019), **Background Conditions Influence the Estimated Cloud Radiative Effects of Anthropogenic Aerosol Emissions from Different Source Regions**, _Journal of Geophysical Research: Atmospheres_, [doi:10.1029/2018JD029644](https://doi.org/10.1029/2018JD029644)<br/>
-[JGR (article)](https://doi.org/10.1029/2018JD029644)&nbsp; &nbsp; &nbsp; [GitHub (analysis)](https://github.com/grandey/draft2017a-region-rfp)&nbsp; &nbsp; &nbsp; [Figshare (data)](https://doi.org/10.6084/m9.figshare.6972827)
+[JGR (article)](https://doi.org/10.1029/2018JD029644)&nbsp; &nbsp; &nbsp; 
+[GitHub (analysis)](https://github.com/grandey/draft2017a-region-rfp)&nbsp; &nbsp; &nbsp; 
+[Figshare (data)](https://doi.org/10.6084/m9.figshare.6972827)
 
 ## 2018
 
-Jin, Q., B. S. Grandey, D. Rothenberg, A. Avramov, and C. Wang (2018), Impacts on cloud radiative effects induced by coexisting aerosols converted from international shipping and maritime DMS emissions, Atmospheric Chemistry and Physics, doi:10.5194/acp-18-16793-2018
-ACP (article)
+Jin, Q., B. S. Grandey, D. Rothenberg, A. Avramov, and C. Wang (2018), **Impacts on cloud radiative effects induced by coexisting aerosols converted from international shipping and maritime DMS emissions**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-18-16793-2018](https://doi.org/10.5194/acp-18-16793-2018)<br/>
+[ACP (article)](https://doi.org/10.5194/acp-18-16793-2018)
 
-Grandey, B. S., D. Rothenberg, A. Avramov, Q. Jin, H.-H. Lee, X. Liu, Z. Lu, S. Albani, and C. Wang (2018), Effective radiative forcing in the aerosol–climate model CAM5.3-MARC-ARG, Atmospheric Chemistry and Physics, doi:10.5194/acp-18-15783-2018
-Summary   ACP (article)   GitHub (analysis)   Figshare (data)
+Grandey, B. S., D. Rothenberg, A. Avramov, Q. Jin, H.-H. Lee, X. Liu, Z. Lu, S. Albani, and C. Wang (2018), **Effective radiative forcing in the aerosol–climate model CAM5.3-MARC-ARG**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-18-15783-2018](https://doi.org/10.5194/acp-18-15783-2018)<br/>
+[ACP (article)](https://doi.org/10.5194/acp-18-15783-2018)&nbsp; &nbsp; &nbsp;
+[GitHub (analysis)](https://github.com/grandey/p17c-marc-comparison)&nbsp; &nbsp; &nbsp;
+[Figshare (data)](https://doi.org/10.6084/m9.figshare.5687812)
 
-Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), The equilibrium climate response to sulfur dioxide and carbonaceous aerosol emissions from East and Southeast Asia, Geophysical Research Letters, doi:10.1029/2018GL080127
-Summary   GRL (article)   GitHub (analysis)   Figshare (data)
+Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), The equilibrium climate response to sulfur dioxide and carbonaceous aerosol emissions from East and Southeast Asia, Geophysical Research Letters, [doi:10.1029/2018GL080127](https://doi.org/10.1029/2018GL080127)<br/>
+[GRL (article)](https://doi.org/10.1029/2018GL080127)&nbsp; &nbsp; &nbsp;
+[GitHub (analysis)](https://github.com/grandey/p17d-sulphur-eas-eqm)&nbsp; &nbsp; &nbsp;
+[Figshare (data)](https://doi.org/10.6084/m9.figshare.6072887)
 
 ## 2016
 
-Grandey, B. S., H.-H. Lee and C. Wang (2016), Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires, Atmospheric Chemistry and Physics, doi:10.5194/acp-16-14495-2016
-MIT News   Website   PDF   Data
+Grandey, B. S., H.-H. Lee and C. Wang (2016), Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires, Atmospheric Chemistry and Physics, [doi:10.5194/acp-16-14495-2016](http://dx.doi.org/10.5194/acp-16-14495-2016)<br/>
+[MIT News](http://news.mit.edu/2016/climate-models-may-be-overestimating-cooling-effect-of-wildfire-aerosols-1129)&nbsp; &nbsp; &nbsp;
+[APC (article)](http://dx.doi.org/10.5194/acp-16-14495-2016)&nbsp; &nbsp; &nbsp;
+[Figshare (data](http://dx.doi.org/10.6084/m9.figshare.3497705)
 
-Grandey, B. S., H. Cheng and C. Wang (2016), Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas, Journal of Climate, doi:10.1175/JCLI-D-15-0555.1
-Video   Straits Times   MIT News   Website   PDF   Data
+Grandey, B. S., H. Cheng and C. Wang (2016), Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas, Journal of Climate, [doi:10.1175/JCLI-D-15-0555.1](http://dx.doi.org/10.1175/JCLI-D-15-0555.1)<br/>
+[Video](https://grandey.wordpress.com/2016/04/07/transient-climate-impacts-for-scenarios-of-aerosol-emissions-from-asia-a-story-of-coal-versus-gas/)&nbsp; &nbsp; &nbsp;
+[Straits Times](http://www.straitstimes.com/singapore/coal-use-can-cause-water-stress-in-asia)&nbsp; &nbsp; &nbsp;
+[MIT News](http://news.mit.edu/2016/higher-coal-use-asia-could-increase-water-stress-0428)&nbsp; &nbsp; &nbsp;
+[JClim (article)](http://dx.doi.org/10.1175/JCLI-D-15-0555.1)&nbsp; &nbsp; &nbsp;
+[Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.2067084)
 
 ## 2015
 
-Grandey, B. S., and C. Wang (2015), Enhanced marine sulphur emissions offset global warming and impact rainfall, Scientific Reports, doi:10.1038/srep13055
-Video   Straits Times   MIT News   Website   PDF   Data
+Grandey, B. S., and C. Wang (2015), Enhanced marine sulphur emissions offset global warming and impact rainfall, Scientific Reports, [doi:10.1038/srep13055](http://dx.doi.org/10.1038/srep13055)<br/>
+[Video](https://grandey.wordpress.com/2015/08/21/enhanced-marine-sulphur-emissions-offset-global-warming-and-impact-rainfall/)&nbsp; &nbsp; &nbsp;
+[Straits Times](http://www.straitstimes.com/singapore/shivers-over-growing-plankton-to-cool-earth)&nbsp; &nbsp; &nbsp;
+[MIT News](http://news.mit.edu/2015/fertilize-ocean-cool-planet-0908)&nbsp; &nbsp; &nbsp;
+[SciRep (article)](http://dx.doi.org/10.1038/srep13055)&nbsp; &nbsp; &nbsp;
+[Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.1483372)
 
 ## 2014
 
