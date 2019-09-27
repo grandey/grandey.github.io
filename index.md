@@ -89,7 +89,7 @@ Grandey, B. S., P. Stier, T. M. Wagner, R. G. Grainger and K. I. Hodges (2011), 
 ## 2010
 
 Grandey, B. S., and P. Stier (2010), **A critical look at spatial scale choices in satellite-based aerosol indirect effect studies**, _Atmospheric Chemistry and Physics_, 10, 11459–11470, [doi:10.5194/acp-10-11459-2010](http://dx.doi.org/10.5194/acp-10-11459-2010)<br/>
-[ACP (article)])(http://dx.doi.org/10.5194/acp-10-11459-2010)
+[ACP (article)](http://dx.doi.org/10.5194/acp-10-11459-2010)
 
 ## 2009
 
