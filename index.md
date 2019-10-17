@@ -122,8 +122,10 @@ My life, my all, to Christ I give.
 
 ## Contact
 <script type="text/javascript">
-var name = 'user';
-var at = '@';
-var domain = 'example.com';
-document.write(name + at + domain);
+  var name2 = 'grandey';
+  var name1 = 'benjamin';
+  var at = '@';
+  var dot = '.';
+  var domain = 'sjc' + dot + 'oxon' + dot + 'org';
+  document.write(name1 + dot + name2 + at + domain);
 </script>
