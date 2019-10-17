@@ -2,6 +2,7 @@
 1. [External links](#external-links)
 1. [Publications](#publications)
 1. [Personal](#personal)
+1. [Contact](#contact)
 
 ## About
 My science research interests include global climate modeling and climate processes, particularly the climate impacts of aerosols — particles suspended in the atmosphere. Aerosols scatter and absorb sunlight; and they provide the cloud condensation nuclei on which cloud droplets form. Aerosols and clouds are responsible for some of the largest uncertainties in projections of future climate.
@@ -118,3 +119,11 @@ He took my sin, he took my shame.<br/>
 He washed my fully clean, no stain!<br/>
 Restored my honour, now I live,<br/>
 My life, my all, to Christ I give.
+
+## Contact
+<script type="text/javascript">
+var name = 'user';
+var at = '@';
+var domain = 'example.com';
+document.write(name + at + domain);
+</script>
