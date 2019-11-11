@@ -14,7 +14,7 @@ I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, workin
 ## External links
 GitHub: [github.com/grandey](https://github.com/grandey)
 
-ResearcherID/Publons: [www.researcherid.com/rid/M-1235-2015](https://www.researcherid.com/rid/M-1235-2015)
+Publons / ResearcherID: [publons.com/researcher/2357422/benjamin-s-grandey/](https://publons.com/researcher/2357422/benjamin-s-grandey/)
 
 ORCID ID: [orcid.org/0000-0003-1442-0906](https://orcid.org/0000-0003-1442-0906)
 
