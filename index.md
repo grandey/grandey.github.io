@@ -9,7 +9,7 @@ I am a climate physicist.  My current research focuses on projections of sea-lev
 
 Previously, my research interests included global climate modeling and climate processes, particularly the climate impacts of aerosols — particles suspended in the atmosphere. Aerosols scatter and absorb sunlight; and they provide the cloud condensation nuclei on which cloud droplets form. Aerosols and clouds are responsible for some of the largest uncertainties in projections of future climate.
 
-I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the _University of Oxford_. From 2012 to 2018, I worked at the _Center for Environmental Sensing and Modeling (CENSAM)_, part of the _Singapore-MIT Alliance for Research and Technology (SMART)_. As of late-2021, I am now employed as a Senior Research Scientist at _Nanyang Technological University (NTU)_.
+I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the _University of Oxford_. From 2012 to 2018, I worked at the _Center for Environmental Sensing and Modeling (CENSAM)_, part of the _Singapore-MIT Alliance for Research and Technology (SMART)_. As of late-2021, I am now employed as a Senior Research Fellow at _Nanyang Technological University (NTU)_.
 
 ![Photo](dsc08007_small.jpg)
 
