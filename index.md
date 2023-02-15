@@ -24,6 +24,10 @@ WordPress "News" posts (old): [grandey.wordpress.com/news/](https://grandey.word
 
 ## Publications
 
+### Preprints
+
+Grandey, B. S., Koh, Z. Y., Samanta, D., Horton, B. P., Dauwels, J., and Chew, L. Y. (2023), **Monte Carlo Drift Correction – Quantifying the Drift Uncertainty of Global Climate Models**, _EGUsphere [preprint]_, [doi:10.5194/egusphere-2022-1515](https://doi.org/10.5194/egusphere-2022-1515)<br/>
+
 ### 2019
 
 Grandey, B. S., and C. Wang (2019), **Background Conditions Influence the Estimated Cloud Radiative Effects of Anthropogenic Aerosol Emissions from Different Source Regions**, _Journal of Geophysical Research: Atmospheres_, [doi:10.1029/2018JD029644](https://doi.org/10.1029/2018JD029644)<br/>
@@ -50,7 +54,7 @@ Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), **The equilibrium clim
 
 Grandey, B. S., H.-H. Lee and C. Wang (2016), **Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-16-14495-2016](http://dx.doi.org/10.5194/acp-16-14495-2016)<br/>
 [MIT News](http://news.mit.edu/2016/climate-models-may-be-overestimating-cooling-effect-of-wildfire-aerosols-1129)&nbsp; &nbsp; &nbsp;
-[APC (article)](http://dx.doi.org/10.5194/acp-16-14495-2016)&nbsp; &nbsp; &nbsp;
+[ACP (article)](http://dx.doi.org/10.5194/acp-16-14495-2016)&nbsp; &nbsp; &nbsp;
 [Figshare (data](http://dx.doi.org/10.6084/m9.figshare.3497705)
 
 Grandey, B. S., H. Cheng and C. Wang (2016), **Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas**, _Journal of Climate_, [doi:10.1175/JCLI-D-15-0555.1](http://dx.doi.org/10.1175/JCLI-D-15-0555.1)<br/>
