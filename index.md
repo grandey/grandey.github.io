@@ -20,8 +20,6 @@ Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https:/
 
 Youtube: [https://www.youtube.com/@benjaminsg](https://www.youtube.com/@benjaminsg)
 
-WordPress "News" posts (old): [grandey.wordpress.com/news/](https://grandey.wordpress.com/news/)
-
 ## Publications
 
 ### Preprints
