@@ -1,26 +1,25 @@
 1. [About](#about)
-1. [External links](#external-links)
-1. [Publications](#publications)
-1. [Personal](#personal)
-1. [Contact](#contact)
+2. [External links](#external-links)
+3. [Journal publications](#journal-publications)
+4. [Personal](#personal)
+5. [Contact](#contact)
 
 ## About
-I am a climate physicist.  My current research focuses on projections of sea-level rise.
 
-Previously, my research interests included global climate modeling and climate processes, particularly the climate impacts of aerosols — particles suspended in the atmosphere. Aerosols scatter and absorb sunlight; and they provide the cloud condensation nuclei on which cloud droplets form. Aerosols and clouds are responsible for some of the largest uncertainties in projections of future climate.
+<img align="right" src="https://grandey.github.io/dsc08007_small.jpg">
 
-I completed my DPhil (PhD) in Atmospheric, Oceanic and Planetary Physics, working as part of the Climate Processes group at the _University of Oxford_. From 2012 to 2018, I worked at the _Center for Environmental Sensing and Modeling (CENSAM)_, part of the _Singapore-MIT Alliance for Research and Technology (SMART)_. As of late-2021, I am now employed as a Senior Research Fellow at _Nanyang Technological University (NTU)_.
+I am a climate physicist, based at [_Nanyang Technological University_](https://www.ntu.edu.sg/spms/about-us/physics/people/research-staff).  My research interests include climate modeling, climate processes, aerosols, clouds, and sea-level rise.  I currently focus on probabilistic **projections of sea-level rise**.
 
-![Photo](dsc08007_small.jpg)
+Alongside climate science, I am also interested in [theology](https://www.methodist.org.sg/methodist-message/christ-centred-creation-care/).  I find that theology complements science in helping me to [understand and respond to the climate crisis](https://youtu.be/5siXD-26v4M).
 
 ## External links
 GitHub: [github.com/grandey](https://github.com/grandey)
 
-Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https://scholar.google.com/citations?user=NkTkEywAAAAJ)
-
 Youtube: [https://www.youtube.com/@benjaminsg](https://www.youtube.com/@benjaminsg)
 
-## Publications
+Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https://scholar.google.com/citations?user=NkTkEywAAAAJ)
+
+## Journal publications
 
 ### Preprints
 
