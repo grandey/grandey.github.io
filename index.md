@@ -6,9 +6,9 @@
 
 ## About
 
-<img align="right" src="https://grandey.github.io/dsc08007_small.jpg">
-
 I am a climate physicist, based at [_Nanyang Technological University_](https://www.ntu.edu.sg/spms/about-us/physics/people/research-staff).  My research interests include climate modeling, climate processes, aerosols, clouds, and sea-level rise.  I currently focus on probabilistic **projections of sea-level rise**.
+
+![Photo](dsc08007_small.jpg)
 
 Alongside climate science, I am also interested in [theology](https://www.methodist.org.sg/methodist-message/christ-centred-creation-care/).  I find that theology complements science in helping me to [understand and respond to the climate crisis](https://youtu.be/5siXD-26v4M).
 
