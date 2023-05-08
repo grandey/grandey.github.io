@@ -50,42 +50,42 @@ Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), **The equilibrium clim
 ### 2016
 
 Grandey, B. S., H.-H. Lee and C. Wang (2016), **Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-16-14495-2016](https://dx.doi.org/10.5194/acp-16-14495-2016)<br/>
-[MIT News](http://news.mit.edu/2016/climate-models-may-be-overestimating-cooling-effect-of-wildfire-aerosols-1129)&nbsp; &nbsp; &nbsp;
-[ACP (article)](http://dx.doi.org/10.5194/acp-16-14495-2016)&nbsp; &nbsp; &nbsp;
-[Figshare (data](http://dx.doi.org/10.6084/m9.figshare.3497705)
+[PDF](https://acp.copernicus.org/articles/16/14495/2016/acp-16-14495-2016.pdf)&nbsp; &nbsp; &nbsp;
+[Data](https://dx.doi.org/10.6084/m9.figshare.3497705)&nbsp; &nbsp; &nbsp;
+[MIT News](https://news.mit.edu/2016/climate-models-may-be-overestimating-cooling-effect-of-wildfire-aerosols-1129)
 
 Grandey, B. S., H. Cheng and C. Wang (2016), **Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas**, _Journal of Climate_, [doi:10.1175/JCLI-D-15-0555.1](https://dx.doi.org/10.1175/JCLI-D-15-0555.1)<br/>
-[Straits Times](http://www.straitstimes.com/singapore/coal-use-can-cause-water-stress-in-asia)&nbsp; &nbsp; &nbsp;
-[MIT News](http://news.mit.edu/2016/higher-coal-use-asia-could-increase-water-stress-0428)&nbsp; &nbsp; &nbsp;
-[Video](https://grandey.wordpress.com/2016/04/07/transient-climate-impacts-for-scenarios-of-aerosol-emissions-from-asia-a-story-of-coal-versus-gas/)&nbsp; &nbsp; &nbsp;
-[JClim (article)](http://dx.doi.org/10.1175/JCLI-D-15-0555.1)&nbsp; &nbsp; &nbsp;
-[Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.2067084)
+[PDF](https://journals.ametsoc.org/downloadpdf/journals/clim/29/8/jcli-d-15-0555.1.xml)&nbsp; &nbsp; &nbsp;
+[Data](https://dx.doi.org/10.6084/m9.figshare.2067084)&nbsp; &nbsp; &nbsp;
+[Video](https://youtu.be/KAwHe3Hu4yw)&nbsp; &nbsp; &nbsp;
+[MIT News](https://news.mit.edu/2016/higher-coal-use-asia-could-increase-water-stress-0428)&nbsp; &nbsp; &nbsp;
+[Straits Times](https://www.straitstimes.com/singapore/coal-use-can-cause-water-stress-in-asia)
 
 ### 2015
 
 Grandey, B. S., and C. Wang (2015), **Enhanced marine sulphur emissions offset global warming and impact rainfall**, _Scientific Reports_, [doi:10.1038/srep13055](https://dx.doi.org/10.1038/srep13055)<br/>
-[Straits Times](http://www.straitstimes.com/singapore/shivers-over-growing-plankton-to-cool-earth)&nbsp; &nbsp; &nbsp;
-[MIT News](http://news.mit.edu/2015/fertilize-ocean-cool-planet-0908)&nbsp; &nbsp; &nbsp;
-[Video](https://grandey.wordpress.com/2015/08/21/enhanced-marine-sulphur-emissions-offset-global-warming-and-impact-rainfall/)&nbsp; &nbsp; &nbsp;
-[SciRep (article)](http://dx.doi.org/10.1038/srep13055)&nbsp; &nbsp; &nbsp;
-[Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.1483372)
+[PDF](https://www.nature.com/articles/srep13055.pdf)&nbsp; &nbsp; &nbsp;
+[Data](https://dx.doi.org/10.6084/m9.figshare.1483372)&nbsp; &nbsp; &nbsp;
+[Video](https://youtu.be/MM0JaFVDksM)&nbsp; &nbsp; &nbsp;
+[MIT News](https://news.mit.edu/2015/fertilize-ocean-cool-planet-0908)&nbsp; &nbsp; &nbsp;
+[Straits Times](https://www.straitstimes.com/singapore/shivers-over-growing-plankton-to-cool-earth)
 
 ### 2014
 
 Grandey, B. S., A. Gururaj, P. Stier and T. M. Wagner (2014), **Rainfall-aerosol relationships explained by wet scavenging and humidity**, _Geophysical Research Letters_, [doi:10.1002/2014GL060958](https://dx.doi.org/10.1002/2014GL060958)<br/>
-[GRL (article)](http://dx.doi.org/10.1002/2014GL060958)&nbsp; &nbsp; &nbsp;
-[Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.1061414)
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2014GL060958)&nbsp; &nbsp; &nbsp;
+[Data](https://dx.doi.org/10.6084/m9.figshare.1061414)
 
 Gryspeerdt, E., P. Stier and B. S. Grandey (2014), **Cloud fraction mediates the aerosol optical depth – cloud top height relationship**, _Geophysical Research Letters_, 41, 3622-3627, [doi:10.1002/2014GL059524](https://dx.doi.org/10.1002/2014GL059524)<br/>
-[GRL (article)](http://dx.doi.org/10.1002/2014GL059524)
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2014GL059524)
 
 ### 2013
 
 Grandey, B. S., P. Stier, R. G. Grainger and T. M. Wagner (2013), **The contribution of the strength and structure of extratropical cyclones to observed cloud–aerosol relationships**, _Atmospheric Chemistry and Physics_, 13, 10689-10701, [doi:10.5194/acp-13-10689-2013](https://dx.doi.org/10.5194/acp-13-10689-2013)<br/>
-[ACP (article)](http://dx.doi.org/10.5194/acp-13-10689-2013)
+[PDF](https://acp.copernicus.org/articles/13/10689/2013/acp-13-10689-2013.pdf)
 
 Grandey, B. S., P. Stier and T. M. Wagner (2013), **Investigating relationships between aerosol optical depth and cloud fraction using satellite, aerosol reanalysis and general circulation model data**, _Atmospheric Chemistry and Physics_, 13, 3177-3184, [doi:10.5194/acp-13-3177-2013](https://dx.doi.org/10.5194/acp-13-3177-2013)<br/>
-[ACP (article)](http://dx.doi.org/10.5194/acp-13-3177-2013)
+[PDF](https://acp.copernicus.org/articles/13/3177/2013/acp-13-3177-2013.pdf)
 
 ### 2012
 
