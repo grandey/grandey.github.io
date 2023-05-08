@@ -76,35 +76,35 @@ Grandey, B. S., A. Gururaj, P. Stier and T. M. Wagner (2014), **Rainfall-aerosol
 [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2014GL060958)&nbsp; &nbsp; &nbsp;
 [Data](https://dx.doi.org/10.6084/m9.figshare.1061414)
 
-Gryspeerdt, E., P. Stier and B. S. Grandey (2014), **Cloud fraction mediates the aerosol optical depth – cloud top height relationship**, _Geophysical Research Letters_, 41, 3622-3627, [doi:10.1002/2014GL059524](https://dx.doi.org/10.1002/2014GL059524)<br/>
+Gryspeerdt, E., P. Stier and B. S. Grandey (2014), **Cloud fraction mediates the aerosol optical depth – cloud top height relationship**, _Geophysical Research Letters_, [doi:10.1002/2014GL059524](https://dx.doi.org/10.1002/2014GL059524)<br/>
 [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2014GL059524)
 
 ### 2013
 
-Grandey, B. S., P. Stier, R. G. Grainger and T. M. Wagner (2013), **The contribution of the strength and structure of extratropical cyclones to observed cloud–aerosol relationships**, _Atmospheric Chemistry and Physics_, 13, 10689-10701, [doi:10.5194/acp-13-10689-2013](https://dx.doi.org/10.5194/acp-13-10689-2013)<br/>
+Grandey, B. S., P. Stier, R. G. Grainger and T. M. Wagner (2013), **The contribution of the strength and structure of extratropical cyclones to observed cloud–aerosol relationships**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-13-10689-2013](https://dx.doi.org/10.5194/acp-13-10689-2013)<br/>
 [PDF](https://acp.copernicus.org/articles/13/10689/2013/acp-13-10689-2013.pdf)
 
-Grandey, B. S., P. Stier and T. M. Wagner (2013), **Investigating relationships between aerosol optical depth and cloud fraction using satellite, aerosol reanalysis and general circulation model data**, _Atmospheric Chemistry and Physics_, 13, 3177-3184, [doi:10.5194/acp-13-3177-2013](https://dx.doi.org/10.5194/acp-13-3177-2013)<br/>
+Grandey, B. S., P. Stier and T. M. Wagner (2013), **Investigating relationships between aerosol optical depth and cloud fraction using satellite, aerosol reanalysis and general circulation model data**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-13-3177-2013](https://dx.doi.org/10.5194/acp-13-3177-2013)<br/>
 [PDF](https://acp.copernicus.org/articles/13/3177/2013/acp-13-3177-2013.pdf)
 
 ### 2012
 
-Rowlands, D. J., D. J. Frame, D. Ackerley, T. Aina, B. Booth, C. Christensen, M. Collins, N. Faull, C. E. Forest, B. S. Grandey, E. Gryspeerdt, E. J. Highwood, W. J. Ingram, S. Knight, A. Lopez, N. Massey, F. McNamara, N. Meinshausen, C. Piani, S. M. Rosier, B. M. Sanderson, L. A. Smith, D. A. Stone, M. Thurston, H. Yamazaki, K. Yamazaki and M. R. Allen (2012), **Broad range of 2050 warming from an observationally constrained large climate model ensemble**, _Nature Geoscience_, 5, 4, 256-260, [doi:10.1038/ngeo1430](https://dx.doi.org/10.1038/ngeo1430)<br/>
+Rowlands, D. J., D. J. Frame, D. Ackerley, T. Aina, B. Booth, C. Christensen, M. Collins, N. Faull, C. E. Forest, B. S. Grandey, E. Gryspeerdt, E. J. Highwood, W. J. Ingram, S. Knight, A. Lopez, N. Massey, F. McNamara, N. Meinshausen, C. Piani, S. M. Rosier, B. M. Sanderson, L. A. Smith, D. A. Stone, M. Thurston, H. Yamazaki, K. Yamazaki and M. R. Allen (2012), **Broad range of 2050 warming from an observationally constrained large climate model ensemble**, _Nature Geoscience_, [doi:10.1038/ngeo1430](https://dx.doi.org/10.1038/ngeo1430)<br/>
 [PDF](https://rdcu.be/dbAUK)
 
 ### 2011
 
-Grandey, B. S., P. Stier, T. M. Wagner, R. G. Grainger and K. I. Hodges (2011), **The effect of extratropical cyclones on satellite-retrieved aerosol properties over ocean**, _Geophysical Research Letters_, 38, L13805, [doi:10.1029/2011GL047703](https://dx.doi.org/10.1029/2011GL047703)<br/>
+Grandey, B. S., P. Stier, T. M. Wagner, R. G. Grainger and K. I. Hodges (2011), **The effect of extratropical cyclones on satellite-retrieved aerosol properties over ocean**, _Geophysical Research Letters_, [doi:10.1029/2011GL047703](https://dx.doi.org/10.1029/2011GL047703)<br/>
 [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2011GL047703)
 
 ### 2010
 
-Grandey, B. S., and P. Stier (2010), **A critical look at spatial scale choices in satellite-based aerosol indirect effect studies**, _Atmospheric Chemistry and Physics_, 10, 11459–11470, [doi:10.5194/acp-10-11459-2010](https://dx.doi.org/10.5194/acp-10-11459-2010)<br/>
+Grandey, B. S., and P. Stier (2010), **A critical look at spatial scale choices in satellite-based aerosol indirect effect studies**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-10-11459-2010](https://dx.doi.org/10.5194/acp-10-11459-2010)<br/>
 [PDF](https://acp.copernicus.org/articles/10/11459/2010/acp-10-11459-2010.pdf)
 
 ### 2009
 
-Quaas, J., Y. Ming, S. Menon, T. Takemura, M. Wang, J. E. Penner, A. Gettelman, U. Lohmann, N. Bellouin, O. Boucher, A. M. Sayer, G. E. Thomas, A. McComiskey, G. Feingold, C. Hoose, J. E. Kristjánsson, X. Liu, Y. Balkanski, L. J. Donner, P. A. Ginoux, P. Stier, B. Grandey, J. Feichter, I. Sednev, S. E. Bauer, D. Koch, R. G. Grainger, A. Kirkevåg, T. Iversen, Ø. Seland, R. Easter, S. J. Ghan, P. J. Rasch, H. Morrison, J.-F. Lamarque, M. J. Iacono, S. Kinne and M. Schulz (2009), **Aerosol indirect effects — general circulation model intercomparison and evaluation with satellite data**, _Atmospheric Chemistry and Physics_, 9, 8697–8717, [doi:10.5194/acp-9-8697-2009](https://dx.doi.org/10.5194/acp-9-8697-2009)<br/>
+Quaas, J., Y. Ming, S. Menon, T. Takemura, M. Wang, J. E. Penner, A. Gettelman, U. Lohmann, N. Bellouin, O. Boucher, A. M. Sayer, G. E. Thomas, A. McComiskey, G. Feingold, C. Hoose, J. E. Kristjánsson, X. Liu, Y. Balkanski, L. J. Donner, P. A. Ginoux, P. Stier, B. Grandey, J. Feichter, I. Sednev, S. E. Bauer, D. Koch, R. G. Grainger, A. Kirkevåg, T. Iversen, Ø. Seland, R. Easter, S. J. Ghan, P. J. Rasch, H. Morrison, J.-F. Lamarque, M. J. Iacono, S. Kinne and M. Schulz (2009), **Aerosol indirect effects — general circulation model intercomparison and evaluation with satellite data**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-9-8697-2009](https://dx.doi.org/10.5194/acp-9-8697-2009)<br/>
 [PDF](https://acp.copernicus.org/articles/9/8697/2009/acp-9-8697-2009.pdf)
 
 ### D.Phil. Thesis
