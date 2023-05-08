@@ -28,24 +28,24 @@ Grandey, B. S., Koh, Z. Y., Samanta, D., Horton, B. P., Dauwels, J., and Chew, L
 ### 2019
 
 Grandey, B. S., and C. Wang (2019), **Background Conditions Influence the Estimated Cloud Radiative Effects of Anthropogenic Aerosol Emissions from Different Source Regions**, _Journal of Geophysical Research: Atmospheres_, [doi:10.1029/2018JD029644](https://doi.org/10.1029/2018JD029644)<br/>
-[JGR (article)](https://doi.org/10.1029/2018JD029644)&nbsp; &nbsp; &nbsp; 
-[GitHub (analysis)](https://github.com/grandey/draft2017a-region-rfp)&nbsp; &nbsp; &nbsp; 
-[Figshare (data)](https://doi.org/10.6084/m9.figshare.6972827)
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JD029644)&nbsp; &nbsp; &nbsp; 
+[Code](https://github.com/grandey/draft2017a-region-rfp)&nbsp; &nbsp; &nbsp; 
+[Data](https://doi.org/10.6084/m9.figshare.6972827)
 
 ### 2018
 
 Jin, Q., B. S. Grandey, D. Rothenberg, A. Avramov, and C. Wang (2018), **Impacts on cloud radiative effects induced by coexisting aerosols converted from international shipping and maritime DMS emissions**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-18-16793-2018](https://doi.org/10.5194/acp-18-16793-2018)<br/>
-[ACP (article)](https://doi.org/10.5194/acp-18-16793-2018)
+[PDF](https://acp.copernicus.org/articles/18/16793/2018/acp-18-16793-2018.pdf)
 
 Grandey, B. S., D. Rothenberg, A. Avramov, Q. Jin, H.-H. Lee, X. Liu, Z. Lu, S. Albani, and C. Wang (2018), **Effective radiative forcing in the aerosol–climate model CAM5.3-MARC-ARG**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-18-15783-2018](https://doi.org/10.5194/acp-18-15783-2018)<br/>
-[ACP (article)](https://doi.org/10.5194/acp-18-15783-2018)&nbsp; &nbsp; &nbsp;
-[GitHub (analysis)](https://github.com/grandey/p17c-marc-comparison)&nbsp; &nbsp; &nbsp;
-[Figshare (data)](https://doi.org/10.6084/m9.figshare.5687812)
+[PDF](https://acp.copernicus.org/articles/18/15783/2018/acp-18-15783-2018.pdf)&nbsp; &nbsp; &nbsp;
+[Code](https://github.com/grandey/p17c-marc-comparison)&nbsp; &nbsp; &nbsp;
+[Data](https://doi.org/10.6084/m9.figshare.5687812)
 
 Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), **The equilibrium climate response to sulfur dioxide and carbonaceous aerosol emissions from East and Southeast Asia**, _Geophysical Research Letters_, [doi:10.1029/2018GL080127](https://doi.org/10.1029/2018GL080127)<br/>
-[GRL (article)](https://doi.org/10.1029/2018GL080127)&nbsp; &nbsp; &nbsp;
-[GitHub (analysis)](https://github.com/grandey/p17d-sulphur-eas-eqm)&nbsp; &nbsp; &nbsp;
-[Figshare (data)](https://doi.org/10.6084/m9.figshare.6072887)
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018GL080127)&nbsp; &nbsp; &nbsp;
+[Code](https://github.com/grandey/p17d-sulphur-eas-eqm)&nbsp; &nbsp; &nbsp;
+[Data](https://doi.org/10.6084/m9.figshare.6072887)
 
 ### 2016
 
