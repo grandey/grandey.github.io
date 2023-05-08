@@ -49,12 +49,12 @@ Grandey, B. S., L. K. Yeo, H.-H. Lee, and C. Wang (2018), **The equilibrium clim
 
 ### 2016
 
-Grandey, B. S., H.-H. Lee and C. Wang (2016), **Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-16-14495-2016](http://dx.doi.org/10.5194/acp-16-14495-2016)<br/>
+Grandey, B. S., H.-H. Lee and C. Wang (2016), **Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires**, _Atmospheric Chemistry and Physics_, [doi:10.5194/acp-16-14495-2016](https://dx.doi.org/10.5194/acp-16-14495-2016)<br/>
 [MIT News](http://news.mit.edu/2016/climate-models-may-be-overestimating-cooling-effect-of-wildfire-aerosols-1129)&nbsp; &nbsp; &nbsp;
 [ACP (article)](http://dx.doi.org/10.5194/acp-16-14495-2016)&nbsp; &nbsp; &nbsp;
 [Figshare (data](http://dx.doi.org/10.6084/m9.figshare.3497705)
 
-Grandey, B. S., H. Cheng and C. Wang (2016), **Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas**, _Journal of Climate_, [doi:10.1175/JCLI-D-15-0555.1](http://dx.doi.org/10.1175/JCLI-D-15-0555.1)<br/>
+Grandey, B. S., H. Cheng and C. Wang (2016), **Transient climate impacts for scenarios of aerosol emissions from Asia: a story of coal versus gas**, _Journal of Climate_, [doi:10.1175/JCLI-D-15-0555.1](https://dx.doi.org/10.1175/JCLI-D-15-0555.1)<br/>
 [Straits Times](http://www.straitstimes.com/singapore/coal-use-can-cause-water-stress-in-asia)&nbsp; &nbsp; &nbsp;
 [MIT News](http://news.mit.edu/2016/higher-coal-use-asia-could-increase-water-stress-0428)&nbsp; &nbsp; &nbsp;
 [Video](https://grandey.wordpress.com/2016/04/07/transient-climate-impacts-for-scenarios-of-aerosol-emissions-from-asia-a-story-of-coal-versus-gas/)&nbsp; &nbsp; &nbsp;
@@ -63,7 +63,7 @@ Grandey, B. S., H. Cheng and C. Wang (2016), **Transient climate impacts for sce
 
 ### 2015
 
-Grandey, B. S., and C. Wang (2015), **Enhanced marine sulphur emissions offset global warming and impact rainfall**, _Scientific Reports_, [doi:10.1038/srep13055](http://dx.doi.org/10.1038/srep13055)<br/>
+Grandey, B. S., and C. Wang (2015), **Enhanced marine sulphur emissions offset global warming and impact rainfall**, _Scientific Reports_, [doi:10.1038/srep13055](https://dx.doi.org/10.1038/srep13055)<br/>
 [Straits Times](http://www.straitstimes.com/singapore/shivers-over-growing-plankton-to-cool-earth)&nbsp; &nbsp; &nbsp;
 [MIT News](http://news.mit.edu/2015/fertilize-ocean-cool-planet-0908)&nbsp; &nbsp; &nbsp;
 [Video](https://grandey.wordpress.com/2015/08/21/enhanced-marine-sulphur-emissions-offset-global-warming-and-impact-rainfall/)&nbsp; &nbsp; &nbsp;
@@ -72,45 +72,45 @@ Grandey, B. S., and C. Wang (2015), **Enhanced marine sulphur emissions offset g
 
 ### 2014
 
-Grandey, B. S., A. Gururaj, P. Stier and T. M. Wagner (2014), **Rainfall-aerosol relationships explained by wet scavenging and humidity**, _Geophysical Research Letters_, [doi:10.1002/2014GL060958](http://dx.doi.org/10.1002/2014GL060958)<br/>
+Grandey, B. S., A. Gururaj, P. Stier and T. M. Wagner (2014), **Rainfall-aerosol relationships explained by wet scavenging and humidity**, _Geophysical Research Letters_, [doi:10.1002/2014GL060958](https://dx.doi.org/10.1002/2014GL060958)<br/>
 [GRL (article)](http://dx.doi.org/10.1002/2014GL060958)&nbsp; &nbsp; &nbsp;
 [Figshare (data)](http://dx.doi.org/10.6084/m9.figshare.1061414)
 
-Gryspeerdt, E., P. Stier and B. S. Grandey (2014), **Cloud fraction mediates the aerosol optical depth – cloud top height relationship**, _Geophysical Research Letters_, 41, 3622-3627, [doi:10.1002/2014GL059524](http://dx.doi.org/10.1002/2014GL059524)<br/>
+Gryspeerdt, E., P. Stier and B. S. Grandey (2014), **Cloud fraction mediates the aerosol optical depth – cloud top height relationship**, _Geophysical Research Letters_, 41, 3622-3627, [doi:10.1002/2014GL059524](https://dx.doi.org/10.1002/2014GL059524)<br/>
 [GRL (article)](http://dx.doi.org/10.1002/2014GL059524)
 
 ### 2013
 
-Grandey, B. S., P. Stier, R. G. Grainger and T. M. Wagner (2013), **The contribution of the strength and structure of extratropical cyclones to observed cloud–aerosol relationships**, _Atmospheric Chemistry and Physics_, 13, 10689-10701, [doi:10.5194/acp-13-10689-2013](http://dx.doi.org/10.5194/acp-13-10689-2013)<br/>
+Grandey, B. S., P. Stier, R. G. Grainger and T. M. Wagner (2013), **The contribution of the strength and structure of extratropical cyclones to observed cloud–aerosol relationships**, _Atmospheric Chemistry and Physics_, 13, 10689-10701, [doi:10.5194/acp-13-10689-2013](https://dx.doi.org/10.5194/acp-13-10689-2013)<br/>
 [ACP (article)](http://dx.doi.org/10.5194/acp-13-10689-2013)
 
-Grandey, B. S., P. Stier and T. M. Wagner (2013), **Investigating relationships between aerosol optical depth and cloud fraction using satellite, aerosol reanalysis and general circulation model data**, _Atmospheric Chemistry and Physics_, 13, 3177-3184, [doi:10.5194/acp-13-3177-2013](http://dx.doi.org/10.5194/acp-13-3177-2013)<br/>
+Grandey, B. S., P. Stier and T. M. Wagner (2013), **Investigating relationships between aerosol optical depth and cloud fraction using satellite, aerosol reanalysis and general circulation model data**, _Atmospheric Chemistry and Physics_, 13, 3177-3184, [doi:10.5194/acp-13-3177-2013](https://dx.doi.org/10.5194/acp-13-3177-2013)<br/>
 [ACP (article)](http://dx.doi.org/10.5194/acp-13-3177-2013)
 
 ### 2012
 
-Rowlands, D. J., D. J. Frame, D. Ackerley, T. Aina, B. Booth, C. Christensen, M. Collins, N. Faull, C. E. Forest, B. S. Grandey, E. Gryspeerdt, E. J. Highwood, W. J. Ingram, S. Knight, A. Lopez, N. Massey, F. McNamara, N. Meinshausen, C. Piani, S. M. Rosier, B. M. Sanderson, L. A. Smith, D. A. Stone, M. Thurston, H. Yamazaki, K. Yamazaki and M. R. Allen (2012), **Broad range of 2050 warming from an observationally constrained large climate model ensemble**, _Nature Geoscience_, 5, 4, 256-260, [doi:10.1038/ngeo1430](http://dx.doi.org/10.1038/ngeo1430)<br/>
-[NatGeo (article)](http://dx.doi.org/10.1038/ngeo1430)
+Rowlands, D. J., D. J. Frame, D. Ackerley, T. Aina, B. Booth, C. Christensen, M. Collins, N. Faull, C. E. Forest, B. S. Grandey, E. Gryspeerdt, E. J. Highwood, W. J. Ingram, S. Knight, A. Lopez, N. Massey, F. McNamara, N. Meinshausen, C. Piani, S. M. Rosier, B. M. Sanderson, L. A. Smith, D. A. Stone, M. Thurston, H. Yamazaki, K. Yamazaki and M. R. Allen (2012), **Broad range of 2050 warming from an observationally constrained large climate model ensemble**, _Nature Geoscience_, 5, 4, 256-260, [doi:10.1038/ngeo1430](https://dx.doi.org/10.1038/ngeo1430)<br/>
+[PDF](https://rdcu.be/dbAUK)
 
 ### 2011
 
-Grandey, B. S., P. Stier, T. M. Wagner, R. G. Grainger and K. I. Hodges (2011), **The effect of extratropical cyclones on satellite-retrieved aerosol properties over ocean**, _Geophysical Research Letters_, 38, L13805, [doi:10.1029/2011GL047703](http://dx.doi.org/10.1029/2011GL047703)<br/>
-[GRL (article)](http://dx.doi.org/10.1029/2011GL047703)
+Grandey, B. S., P. Stier, T. M. Wagner, R. G. Grainger and K. I. Hodges (2011), **The effect of extratropical cyclones on satellite-retrieved aerosol properties over ocean**, _Geophysical Research Letters_, 38, L13805, [doi:10.1029/2011GL047703](https://dx.doi.org/10.1029/2011GL047703)<br/>
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2011GL047703)
 
 ### 2010
 
-Grandey, B. S., and P. Stier (2010), **A critical look at spatial scale choices in satellite-based aerosol indirect effect studies**, _Atmospheric Chemistry and Physics_, 10, 11459–11470, [doi:10.5194/acp-10-11459-2010](http://dx.doi.org/10.5194/acp-10-11459-2010)<br/>
-[ACP (article)](http://dx.doi.org/10.5194/acp-10-11459-2010)
+Grandey, B. S., and P. Stier (2010), **A critical look at spatial scale choices in satellite-based aerosol indirect effect studies**, _Atmospheric Chemistry and Physics_, 10, 11459–11470, [doi:10.5194/acp-10-11459-2010](https://dx.doi.org/10.5194/acp-10-11459-2010)<br/>
+[PDF](https://acp.copernicus.org/articles/10/11459/2010/acp-10-11459-2010.pdf)
 
 ### 2009
 
-Quaas, J., Y. Ming, S. Menon, T. Takemura, M. Wang, J. E. Penner, A. Gettelman, U. Lohmann, N. Bellouin, O. Boucher, A. M. Sayer, G. E. Thomas, A. McComiskey, G. Feingold, C. Hoose, J. E. Kristjánsson, X. Liu, Y. Balkanski, L. J. Donner, P. A. Ginoux, P. Stier, B. Grandey, J. Feichter, I. Sednev, S. E. Bauer, D. Koch, R. G. Grainger, A. Kirkevåg, T. Iversen, Ø. Seland, R. Easter, S. J. Ghan, P. J. Rasch, H. Morrison, J.-F. Lamarque, M. J. Iacono, S. Kinne and M. Schulz (2009), **Aerosol indirect effects — general circulation model intercomparison and evaluation with satellite data**, _Atmospheric Chemistry and Physics_, 9, 8697–8717, [doi:10.5194/acp-9-8697-2009](http://dx.doi.org/10.5194/acp-9-8697-2009)<br/>
-[ACP (article)](http://dx.doi.org/10.5194/acp-9-8697-2009)
+Quaas, J., Y. Ming, S. Menon, T. Takemura, M. Wang, J. E. Penner, A. Gettelman, U. Lohmann, N. Bellouin, O. Boucher, A. M. Sayer, G. E. Thomas, A. McComiskey, G. Feingold, C. Hoose, J. E. Kristjánsson, X. Liu, Y. Balkanski, L. J. Donner, P. A. Ginoux, P. Stier, B. Grandey, J. Feichter, I. Sednev, S. E. Bauer, D. Koch, R. G. Grainger, A. Kirkevåg, T. Iversen, Ø. Seland, R. Easter, S. J. Ghan, P. J. Rasch, H. Morrison, J.-F. Lamarque, M. J. Iacono, S. Kinne and M. Schulz (2009), **Aerosol indirect effects — general circulation model intercomparison and evaluation with satellite data**, _Atmospheric Chemistry and Physics_, 9, 8697–8717, [doi:10.5194/acp-9-8697-2009](https://dx.doi.org/10.5194/acp-9-8697-2009)<br/>
+[PDF](https://acp.copernicus.org/articles/9/8697/2009/acp-9-8697-2009.pdf)
 
 ### D.Phil. Thesis
 
-Grandey, B. S. (2011), **Investigating aerosol–cloud interactions**, D.Phil. Thesis, _University of Oxford_<br/>
-[ORA (thesis)](https://ora.ox.ac.uk/objects/ora:6053)
+Grandey, B. S. (2011), **Investigating aerosol–cloud interactions**, D.Phil. Thesis, _University of Oxford_, [ora.ox.ac.uk/objects/ora:6053](https://ora.ox.ac.uk/objects/ora:6053)<br/>
+[PDF](https://ora.ox.ac.uk/objects/uuid:8b48c02b-3d43-4b04-ae55-d9885960103d/files/mab6487ddeac08577263951844f2939e3)
 
 ## Personal
 Clothed in rags, filth, dirt and mud,<br/>
