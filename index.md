@@ -6,7 +6,7 @@
 
 ## About
 
-I am a climate physicist, based at [_Nanyang Technological University_](https://www.ntu.edu.sg/spms/about-us/physics/people/research-staff).  My research interests include climate modeling, climate processes, aerosols, clouds, and sea-level rise.  I currently focus on probabilistic **projections of sea-level rise**.
+I am a climate physicist, modeller, and data scientist. As a **climate physicist**, I seek to understand the physical processes influencing the Earth's climate system. As a **climate modeller**, I use physical climate models and statistical models. As a **climate data scientist**, I analyse and interpret large datasets. My research interests include aerosols, clouds, and sea-level rise. I currently work at [_Nanyang Technological University_](https://www.ntu.edu.sg/spms/about-us/physics/people/research-staff), where I focus on **probabilistic projections of sea-level rise**.
 
 ![Photo](dsc08007_small.jpg)
 
