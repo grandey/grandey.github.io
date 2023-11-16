@@ -25,7 +25,11 @@ Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https:/
 
 Grandey, B. S., J. Dauwels, B. P. Horton, and L. Y. Chew (2023), **Fusion of Probabilistic Projections of Sea Level**, Preprint at _Research Square_, [doi:10.21203/rs.3.rs-2922142/v1](https://doi.org/10.21203/rs.3.rs-2922142/v1)<br/>
 
-Grandey, B. S., Z. Y. Koh, D. Samanta, B. P. Horton, J. Dauwels, and L. Y. Chew (2023), **Monte Carlo Drift Correction – Quantifying the Drift Uncertainty of Global Climate Models**, Preprint at _EGUsphere_, [doi:10.5194/egusphere-2022-1515](https://doi.org/10.5194/egusphere-2022-1515)<br/>
+### 2023
+
+Grandey, B. S., Z. Y. Koh, D. Samanta, B. P. Horton, J. Dauwels, and L. Y. Chew (2023), **Monte Carlo drift correction – quantifying the drift uncertainty of global climate models**, _Geosci. Model Dev._, [doi:10.5194/gmd-16-6593-2023](https://doi.org/10.5194/gmd-16-6593-2023)<br/>
+[PDF](https://gmd.copernicus.org/articles/16/6593/2023/gmd-16-6593-2023.pdf)&nbsp; &nbsp; &nbsp; 
+[Code](https://github.com/grandey/d22a-mcdc/)
 
 ### 2019
 
