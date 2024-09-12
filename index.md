@@ -1,8 +1,7 @@
 1. [About](#about)
-2. [External links](#external-links)
-3. [Journal publications](#journal-publications)
-4. [Personal](#personal)
-5. [Contact](#contact)
+2. [Journal publications](#journal-publications)
+3. [Personal](#personal)
+4. [Contact](#contact)
 
 ## About
 
@@ -12,14 +11,9 @@ I am a climate physicist, modeller, and data scientist. As a **climate physicist
 
 Alongside climate science, I am also interested in Christian **theology**. I find that theology complements science in helping me to understand and respond to the climate crisis. I have explored this theme through articles (for [BioLogos](https://biologos.org/articles/the-beauty-of-climate-science-in-a-broken-world), the [Methodist Message](https://www.methodist.org.sg/methodist-message/christ-centred-creation-care/), and [Salt&Light](https://saltandlight.sg/faith/the-great-commandment-includes-creation-care/)) and talks (including at the [Justice Conference Asia](https://thirst.sg/climate-change-jca-2019/) and a [secondary school](https://youtu.be/5siXD-26v4M)).
 
-## External links
-GitHub: [github.com/grandey](https://github.com/grandey)
-
-Youtube: [https://www.youtube.com/@benjaminsg](https://www.youtube.com/@benjaminsg)
+## Journal publications
 
 Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https://scholar.google.com/citations?user=NkTkEywAAAAJ)
-
-## Journal publications
 
 ### Preprints
 
