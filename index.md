@@ -21,6 +21,8 @@ Koh, Z. Y., B. S. Grandey, D. Samanta, A. D. Switzer, Horton, B. P. Horton, J. D
 
 Grandey, B. S., J. Dauwels, Z. Y. Koh, B. P. Horton, and L. Y. Chew, **Fusion of Probabilistic Projections of Sea-Level Rise**, Preprint at _Research Square_, [doi:10.21203/rs.3.rs-2922142/v3](https://doi.org/10.21203/rs.3.rs-2922142/v3)<br/>
 
+Grandey, B. S., S. Jevrejeva, Z. Y. Koh, B. P. Horton, J. Dauwels, and L. Y. Chew, **Modelling Correlation Among the Ice Sheet Components of Sea-Level Rise**, Preprint at _ESS Open Archive_, [doi:10.22541/essoar.172838599.97774756/v1](https://doi.org/10.22541/essoar.172838599.97774756/v1)<br/>
+
 ### 2023
 
 Grandey, B. S., Z. Y. Koh, D. Samanta, B. P. Horton, J. Dauwels, and L. Y. Chew (2023), **Monte Carlo drift correction – quantifying the drift uncertainty of global climate models**, _Geosci. Model Dev._, [doi:10.5194/gmd-16-6593-2023](https://doi.org/10.5194/gmd-16-6593-2023)<br/>
