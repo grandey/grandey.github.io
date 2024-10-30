@@ -15,6 +15,8 @@ Alongside climate science, I am also interested in Christian **theology**. I fin
 
 Google Scholar: [https://scholar.google.com/citations?user=NkTkEywAAAAJ](https://scholar.google.com/citations?user=NkTkEywAAAAJ)
 
+Scopus: [https://www.scopus.com/authid/detail.uri?authorId=35221443100#](https://www.scopus.com/authid/detail.uri?authorId=35221443100#)
+
 ### Preprints
 
 Koh, Z. Y., B. S. Grandey, D. Samanta, A. D. Switzer, Horton, B. P. Horton, J. Dauwels, and L. Y. Chew, **Tide-Surge Interaction near Singapore and Malaysia using a Semi-empirical Model**, Preprint at _EGUsphere_, [doi:10.5194/egusphere-2024-294](https://doi.org/10.5194/egusphere-2024-294)<br/>
