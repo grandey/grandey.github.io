@@ -19,11 +19,13 @@ Scopus: [https://www.scopus.com/authid/detail.uri?authorId=35221443100#](https:/
 
 ### Preprints
 
-Grandey, B. S., J. Dauwels, Z. Y. Koh, B. P. Horton, and L. Y. Chew, **Fusion of Probabilistic Projections of Sea-Level Rise**, Preprint at _Research Square_, [doi:10.21203/rs.3.rs-2922142/v3](https://doi.org/10.21203/rs.3.rs-2922142/v3)<br/>
-
 Grandey, B. S., S. Jevrejeva, Z. Y. Koh, B. P. Horton, J. Dauwels, and L. Y. Chew, **Modelling Correlation Among the Ice Sheet Components of Sea-Level Rise**, Preprint at _ESS Open Archive_, [doi:10.22541/essoar.172838599.97774756/v1](https://doi.org/10.22541/essoar.172838599.97774756/v1)<br/>
 
 ### 2024
+
+Grandey, B. S., J. Dauwels, Z. Y. Koh, B. P. Horton, and L. Y. Chew, **Fusion of Probabilistic Projections of Sea-Level Rise**, _Earth's Future_, [doi:10.1029/2024EF005295](https://doi.org/10.1029/2024EF005295)<br/>
+[PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024EF005295)&nbsp; &nbsp; &nbsp; 
+[Code](https://github.com/grandey/d23a-fusion)
 
 Koh, Z. Y., B. S. Grandey, D. Samanta, A. D. Switzer, B. P. Horton, J. Dauwels, and L. Y. Chew, **Tide–surge interaction observed at Singapore and the east coast of Peninsular Malaysia using a semi-empirical model**, _Ocean Science_, [doi:10.5194/os-20-1495-2024](https://doi.org/10.5194/os-20-1495-2024)<br/>
 [PDF](https://os.copernicus.org/articles/20/1495/2024/os-20-1495-2024.pdf)
