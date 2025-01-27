@@ -25,7 +25,8 @@ Grandey, B. S., S. Jevrejeva, Z. Y. Koh, B. P. Horton, J. Dauwels, and L. Y. Che
 
 Grandey, B. S., J. Dauwels, Z. Y. Koh, B. P. Horton, and L. Y. Chew, **Fusion of Probabilistic Projections of Sea-Level Rise**, _Earth's Future_, [doi:10.1029/2024EF005295](https://doi.org/10.1029/2024EF005295)<br/>
 [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024EF005295)&nbsp; &nbsp; &nbsp; 
-[Code](https://github.com/grandey/d23a-fusion)
+[Code](https://github.com/grandey/d23a-fusion)&nbsp; &nbsp; &nbsp; 
+[NTU News](https://www.ntu.edu.sg/news/detail/new-method-projects-very-likely-range-of-future-sea-level-rise)
 
 Koh, Z. Y., B. S. Grandey, D. Samanta, A. D. Switzer, B. P. Horton, J. Dauwels, and L. Y. Chew, **Tide–surge interaction observed at Singapore and the east coast of Peninsular Malaysia using a semi-empirical model**, _Ocean Science_, [doi:10.5194/os-20-1495-2024](https://doi.org/10.5194/os-20-1495-2024)<br/>
 [PDF](https://os.copernicus.org/articles/20/1495/2024/os-20-1495-2024.pdf)
