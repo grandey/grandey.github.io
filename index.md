@@ -26,7 +26,10 @@ Grandey, B. S., S. Jevrejeva, Z. Y. Koh, B. P. Horton, J. Dauwels, and L. Y. Che
 Grandey, B. S., J. Dauwels, Z. Y. Koh, B. P. Horton, and L. Y. Chew, **Fusion of Probabilistic Projections of Sea-Level Rise**, _Earth's Future_, [doi:10.1029/2024EF005295](https://doi.org/10.1029/2024EF005295)<br/>
 [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024EF005295)&nbsp; &nbsp; &nbsp; 
 [Code](https://github.com/grandey/d23a-fusion)&nbsp; &nbsp; &nbsp; 
-[NTU News](https://www.ntu.edu.sg/news/detail/new-method-projects-very-likely-range-of-future-sea-level-rise)
+[NTU News](https://www.ntu.edu.sg/news/detail/new-method-projects-very-likely-range-of-future-sea-level-rise)&nbsp; &nbsp; &nbsp;
+[Science@NTU](https://blogs.ntu.edu.sg/science/2025/01/27/rising-sea-levels-a-nuanced-approach/)&nbsp; &nbsp; &nbsp;
+[Straits Times](https://www.straitstimes.com/singapore/global-sea-level-may-rise-by-up-to-1-9m-by-2100-exceeding-earlier-projections-ntu-study)&nbsp; &nbsp; &nbsp;
+[CNA](https://www.channelnewsasia.com/singapore/global-sea-level-rise-19m-ntu-study-high-carbon-emissions-un-projection-4900741)
 
 Koh, Z. Y., B. S. Grandey, D. Samanta, A. D. Switzer, B. P. Horton, J. Dauwels, and L. Y. Chew, **Tide–surge interaction observed at Singapore and the east coast of Peninsular Malaysia using a semi-empirical model**, _Ocean Science_, [doi:10.5194/os-20-1495-2024](https://doi.org/10.5194/os-20-1495-2024)<br/>
 [PDF](https://os.copernicus.org/articles/20/1495/2024/os-20-1495-2024.pdf)
